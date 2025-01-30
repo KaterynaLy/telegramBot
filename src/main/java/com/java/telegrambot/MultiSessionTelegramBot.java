@@ -1,4 +1,4 @@
-package com.javarush.telegram;
+package com.java.telegrambot;
 
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.meta.api.methods.BotApiMethod;
